@@ -4,6 +4,8 @@ public class operations {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
+        System.out.print("Result: ");
         System.out.println(a + b);
+
     }
 }
